@@ -101,8 +101,8 @@ This project demonstrates how effective data cleaning, custom metric creation, a
 ---
 
 ## 👤 Author
-**Utkarsh Bansal**  
+**Kavyansh Vashishtha**  
 Aspiring Data Analyst  
-GitHub: *(add your GitHub profile link)*  
-LinkedIn: *(optional)*
+GitHub: *(https://github.com/kavyanshvashishtha)*  
+LinkedIn: *(https://www.linkedin.com/in/kavyansh-vashishtha-30a02a40a/)*
 
