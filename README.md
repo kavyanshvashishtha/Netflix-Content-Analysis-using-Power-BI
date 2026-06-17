@@ -8,7 +8,7 @@ The project focuses on analyzing content trends, IMDb ratings, runtime patterns,
 
 ## 🔗 Project Resources
 - 📁 **Dataset:**  
-  https://docs.google.com/spreadsheets/d/1oZSdr3oeHu1Y9bEAc4xneNEBYgWabpyd/edit?usp=sharing
+  https://docs.google.com/spreadsheets/d/13ERqbgW9hfzBkiot2rpgeXeaSzcYOdbz/edit?usp=sharing&ouid=102824183235186433803&rtpof=true&sd=true
 
 - 📄 **Case Study Report (PDF):**  
   https://drive.google.com/file/d/1CcHsxw7fTSbXWF_DUxYUdUO4aPcr3GFs/view?usp=sharing
