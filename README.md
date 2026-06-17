@@ -11,7 +11,7 @@ The project focuses on analyzing content trends, IMDb ratings, runtime patterns,
   https://docs.google.com/spreadsheets/d/13ERqbgW9hfzBkiot2rpgeXeaSzcYOdbz/edit?usp=sharing&ouid=102824183235186433803&rtpof=true&sd=true
 
 - 📄 **Case Study Report (PDF):**  
-  https://drive.google.com/file/d/1CcHsxw7fTSbXWF_DUxYUdUO4aPcr3GFs/view?usp=sharing
+  https://drive.google.com/file/d/1XChsW80Xvim2CPM0WHREam99DwJo5UB3/view?usp=sharing
 
 ---
 
